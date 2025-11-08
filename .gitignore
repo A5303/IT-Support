@@ -1,0 +1,10 @@
+# Ignore log files
+Logs/
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore personal settings
+.vscode/
